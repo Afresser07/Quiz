@@ -1,0 +1,3 @@
+INSERT INTO celular (marca, modelo, precio, descripcion) VALUES ('Samsung', 'Galaxy S21', 999.99, 'Un teléfono de gama alta');
+INSERT INTO celular (marca, modelo, precio, descripcion) VALUES ('Apple', 'iPhone 13', 1099.99, 'El último modelo de iPhone');
+INSERT INTO celular (marca, modelo, precio, descripcion) VALUES ('Xiaomi', 'Redmi Note 10', 299.99, 'Una opción asequible con buenas características');
